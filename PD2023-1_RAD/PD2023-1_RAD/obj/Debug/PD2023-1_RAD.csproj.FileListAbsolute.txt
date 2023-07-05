@@ -1,0 +1,12 @@
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\bin\Debug\PD2023-1_RAD.exe.config
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\bin\Debug\PD2023-1_RAD.exe
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\bin\Debug\PD2023-1_RAD.pdb
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.csproj.AssemblyReference.cache
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.csproj.SuggestedBindingRedirects.cache
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023_1_RAD.Properties.Resources.resources
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.csproj.GenerateResource.cache
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.csproj.CoreCompileInputs.cache
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.exe
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023-1_RAD.pdb
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023_1_RAD.Menu.resources
+D:\projetos C#\PD2023-1_RAD\PD2023-1_RAD\obj\Debug\PD2023_1_RAD.FormCategorias.resources

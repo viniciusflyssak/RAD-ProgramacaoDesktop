@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PD2023-1_RAD", "PD2023-1_RAD\PD2023-1_RAD.csproj", "{8571F84F-8654-48B9-9631-A9F7E6DC3C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8571F84F-8654-48B9-9631-A9F7E6DC3C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8571F84F-8654-48B9-9631-A9F7E6DC3C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8571F84F-8654-48B9-9631-A9F7E6DC3C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8571F84F-8654-48B9-9631-A9F7E6DC3C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {971C4496-6DD8-45A1-8F43-8A6B0834A44D}
+	EndGlobalSection
+EndGlobal
